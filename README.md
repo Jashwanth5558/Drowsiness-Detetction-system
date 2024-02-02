@@ -30,11 +30,11 @@ The project consists of the following files:
 3)'alarm.wav': A audio file to get alert sound when the user gets asleep with and warning indication.\
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "active phase.png")
+![Settings Window](https://raw.github.com/Nikhileshwar23/Drowsiness-Detetction-system/master/active phase.png)
 
-![Alt text](/relative/path/to/img.jpg?raw=true " Drowsy phase.png")
+![Settings Window](https://raw.github.com/Nikhileshwar23/Drowsiness-Detetction-system/master/Drowsy phase.png)
 
-![Alt text](/relative/path/to/img.jpg?raw=true " sleeping phase phase.png")
+![Settings Window](https://raw.github.com/Nikhileshwar23/Drowsiness-Detetction-system/master/sleeping phase phase.png)
 
 ## Contributing
 Contributions to this project are welcome! If you find any bugs or have any suggestions for improvements, please feel free to create an issue or pull request.
