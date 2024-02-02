@@ -29,6 +29,13 @@ The project consists of the following files:
 2)'landmark.dat': A pre-trained model file that contains the facial landmark data required for the detection process.\
 3)'alarm.wav': A audio file to get alert sound when the user gets asleep with and warning indication.\
 
+## Screenshots
+![Alt text](/relative/path/to/img.jpg?raw=true "active phase.png")
+
+![Alt text](/relative/path/to/img.jpg?raw=true " Drowsy phase.png")
+
+![Alt text](/relative/path/to/img.jpg?raw=true " sleeping phase phase.png")
+
 ## Contributing
 Contributions to this project are welcome! If you find any bugs or have any suggestions for improvements, please feel free to create an issue or pull request.
 
